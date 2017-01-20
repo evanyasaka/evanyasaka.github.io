@@ -53,7 +53,6 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
         "Common Lisp"
       ]
     },
@@ -61,11 +60,9 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
@@ -74,8 +71,18 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-01-11",
       "endDate": "Present",
+      "gpa": "3.14",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "Leeward Community College, Aiea, HI",
+      "area": "Computer Science (graduated Fall, 2015)",
+      "studyType": "A.S.",
+      "startDate": "2014-09-01",
+      "endDate": "Fall 2015",
       "gpa": "",
       "courses": [
       ]
@@ -83,70 +90,46 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "MiniQ Anime Shop",
+      "position": "Sales Associate",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2015-12-06",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Cashier and Inventory Management",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, order, and check in shipments",
+        "Have a wide knowledge base of anime products, and modeling skills to connect with customers"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Oceanic Time Warner Cable",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2008-08-25",
+      "endDate": "2014-08-15",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Develop software for live TV productions, client requests, and in house tools",
+        "Set up, maintain, and service video production equipment"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Kawaii Kon",
+      "website": "http://kawaiikon.com/",
+      "position": "Assistant Director of Operations",
+      "startDate": "2006-04-14",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Manager of the information desk and volunteer staff",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Train staff to manage, run, and maintain the information desk during convention days",
+        "Connect with other convention departments to ensure good communication and to assign then staff"
       ]
     }
   ],
   "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
