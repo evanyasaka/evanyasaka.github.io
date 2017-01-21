@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/gundam-logo.png
 title: Custom Gundam Model Build
-permalink: projects/KawaiiKon
+permalink: projects/custom-gundam
 date: 2014
 labels:
   - Scale Modeling
