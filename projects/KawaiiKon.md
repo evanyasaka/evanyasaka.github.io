@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/word-logo.jpg
+image: images/Word-Logo.png
 title: KawaiiKon
 permalink: projects/KawaiiKon
 date: 2006
@@ -13,7 +13,7 @@ summary: We put on the largest, most attended, and longest running anime convent
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.jpg">
+  <img class="ui image" src="../images/KawaiiKon-Staff.jpg">
 </div>
 
 ## Kawaii Kon
