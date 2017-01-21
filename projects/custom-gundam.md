@@ -88,4 +88,4 @@ Accessories are now stripped off, gloss coat was added, panel lining was done an
   <img class="ui image" src="http://i.imgur.com/mtKX8zh.jpg">
 </div>
 
-After everything was finished I put it all back together and couldn't resist immediately putting it in an action pose. This was really an amazing journey for me and a big stride forward in my wieldable techniques. Although I still have a lot more to learn and try, I could not be happier with how a project that started with just a silly idea in my head turned out. I've been building models for almost twenty years now and there is no way in hell I'm stopping after this!
+After everything was finished I put it all back together and couldn't resist immediately putting it in an action pose. This was really an amazing journey for me and a big stride forward in my wieldable techniques. Although I still have a lot more to learn and try, I could not be happier with how a project that started with just a silly idea in my head turned out. I've been building models for almost twenty years now and there is no way I'm stopping after this!
