@@ -31,3 +31,5 @@ During the convention the Operations department is primarily responsible for run
 
 ## Assistant Director of Operations
 As an assistant director, my duties to my department are quite varied. During meetings, I take notes on what each department has presented and follow up with questions for clarification. If a department or representative is not able to attend a meeting, I reach out to them to find out if they have any updates and relay them to the rest of the directors. During our regular staff meetings I split duties with our department's other assistant director. I am peraonally responsible for briefing our new staff memebers on what is expected of them, and give them generalized information on what they will be doing. From there the meeting will break up into individual departments where I inform our staff members where to go. During the convention weekend I manage our information desk. To do so, I regularly check in with each department to ensure that we as information always have the most relevant and updated information which I then brief my staff on.
+
+For more information on Kawaii Kon  you can visit: [Kawaii Kon](http://kawaiikon.com)
