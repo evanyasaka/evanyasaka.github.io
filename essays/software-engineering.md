@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Interests in Software Engineering
-date: 2017-01-18
+date: 2017-01-21
 labels:
   - JavaScript
   - C
