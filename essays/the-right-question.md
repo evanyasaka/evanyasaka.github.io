@@ -44,3 +44,6 @@ While these are not all of the guidelines that were listed, they can be generall
   * List symptoms verbosely and do not interject your own conclusions.
   * Be courteous and mindful of the people replying to you.
 
+Let's look at the question asked 
+[here](http://stackoverflow.com/questions/41736767/java-8-boolean-logicalor-method "Java 8 Boolean.logicalOr method") for example.
+
