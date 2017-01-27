@@ -67,7 +67,7 @@ Here the subject header doesn't indicate any versions, or problems, just an acti
 
 The replies are indicative of the kind of response we'd expect from something like this. In fact, the very first reply is 
 
-> *"please share the actual code you running"*
+> *"please share the actual code you [are] running"*
 
 ## The Acceptable
 
