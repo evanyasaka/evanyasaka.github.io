@@ -27,21 +27,24 @@ Yes, there are stupid questions. Semantics aside, once you start looking for exp
 
 According Eric Raymond, your question should follow several guidelines such as:
 
-> Use meaningful, specific subject headers
+> *Use meaningful, specific subject headers
 
-> Make it easy to reply
+> * Make it easy to reply
 
-> Write in clear, grammatical, correctly-spelled language
+> * Write in clear, grammatical, correctly-spelled language
 
-> Send questions in accessible, standard formats
+> * Send questions in accessible, standard formats
 
-> Be precise and informative about your problem
+> * Be precise and informative about your problem
 
-> Describe the problem's symptoms, not your guesses
+> * Describe the problem's symptoms, not your guesses
 
 While these are not all the guidelines that were listed, they can be generally summarized into three categories:
+
   * Ask your question in a precise and meaningful way.
+  
   * List symptoms verbosely and do not interject your own conclusions.
+  
   * Be courteous and mindful of the people replying to you.
 
 
