@@ -28,10 +28,15 @@ Actually, yes, there are stupid questions. Semantics aside, once you start looki
 According Eric Raymond, your question should follow several guidelines such as:
 
 > Use meaningful, specific subject headers
+
 > Make it easy to reply
+
 > Write in clear, grammatical, correctly-spelled language
+
 > Send questions in accessible, standard formats
+
 > Be precise and informative about your problem
+
 > Describe the problem's symptoms, not your guesses
 
 While these are not all of the guidelines that were listed, they can be generally summarized into three categories:
