@@ -27,7 +27,7 @@ Yes, there are stupid questions. Semantics aside, once you start looking for exp
 
 According Eric Raymond, your question should follow several guidelines such as:
 
-> *Use meaningful, specific subject headers
+> * Use meaningful, specific subject headers
 
 > * Make it easy to reply
 
