@@ -12,7 +12,7 @@ labels:
 summary: We put on the largest, most attended, and longest running anime convention in Hawaii.
 ---
 
-<div class="ui small rounded images">
+<div>
   <img class="ui image" src="../images/KawaiiKon-Staff.jpg">
 </div>
 
