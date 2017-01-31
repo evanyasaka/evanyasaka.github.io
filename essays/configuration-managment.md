@@ -14,6 +14,8 @@ labels:
 	
 	To our discredit however, our version managment was quite awful when I look back at it now. While I used to work for Oceanic there were only two of us who worked on all the programming projects for our department. We could afford to be a little bit lax with our versioning. By "a little bit lax" however, I mean that our version numbers were actually dates. We'd have a project named something like 20050607_project and many professional and even hobbyist programmers would burn us at the stake for this. 
 	
-	<div class="ui small rounded images">
+	<div>
 		<img class="ui image" src="../images/versioncontrol.png">
     </div>
+	
+	
