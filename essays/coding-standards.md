@@ -29,7 +29,7 @@ Now these were pretty broad however anyone who has ever spent time learning to c
 
 Although it's true that ESLint discourages the usage of some static identities, this isn't the kind of static I'm talking about. One of the biggest hits against standardization is that often people get caught up in the nitty-gritty of style guides. Specifically the parts that micro-manage what many consider to be 'trivial' things. For instance, according to ESLint, had I used double quotes in that last sentence ESLint would have had me burned at the stake for my transgression! What is the difference between single quotes and double quotes and why is it so important that a rule had to be specifically made for it?
 
-To argue for double quotes many people are already familiar with double quotes around strings because of their existing language. Additionally what happens if I try to use single quotes around the sentence ```I can't go they're too cool and won't like me```? In this case you'll have to escape all the contracted words whereas if it were surrounded by double quotes that wouldn't be a problem at all. In fact in JSON you MUST use double quotes. 
+To argue for double quotes many people are already familiar with double quotes around strings because of their existing language. Additionally what happens if I try to use single quotes around the phrase ```I can't go. They're too cool and won't like me```? In this case you'll have to escape all the contracted words whereas if it were surrounded by double quotes that wouldn't be a problem at all. In fact in JSON you MUST use double quotes. 
 
 So what gives? 
 
