@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: No CSS? CS Mess!
-date: 2017-02-023
+date: 2017-02-23
 labels:
   - HTML
   - CSS
