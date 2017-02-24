@@ -1,0 +1,26 @@
+---
+layout: essay
+type: essay
+title: No CSS? CS Mess!
+date: 2017-02-023
+labels:
+  - HTML
+  - CSS
+---
+
+
+## Class=”blog good entertaining intro”
+
+	Let me just preface this with the fact that I absolutely hate working with CSS. I can do it and I can manage but working with CSS is an exercise in frustration for me almost all the time. Now that doesn’t mean I think that CSS is bad. Far from it in fact. If I didn’t recognize its potential I wouldn’t work with it at all if I could avoid it. Cascading style sheets are some magical pieces of text. It’s like writing an arcane tome that suddenly just makes everything you make look like a masterpiece work of art and I think that’s really cool! My frustration with it has always been with what I could only describe as “inconsistency”. Unlike JavaScript, C++, or any programming language for that matter, CSS doesn’t really have any way of being debugged. What this leads to is an inevitable situation that all of us have come to know. We’ll use the exact same styles on one element on another element and from some reason unknown to even the omnipotent it doesn’t work the way it did before. WHY?!
+In my experience this has come down to many different things. Sometimes it’s as simple as a mere typo. Sometimes it’s because the style that I’m trying to use doesn’t actually work for the element that I’m trying to modify. Sometimes I just plain don’t even understand what my style is doing! One of the biggest perpetrators of this that I’ve run into has always been positioning. I’ll make a div, try and position it in the center, then nest another div in it and try and have it float on the left side of its container. Load up the page, take a look, and I find my nested div hugging the left side of the window. Clearly it wasn’t my intention but as far as CSS is concerned that’s exactly what I wanted. I just need to change the position property, right? I need to make it auto? Or was it relative? Perhaps fixed. What did that mean again? In the end, it’s just like runes and symbols sometimes and there is where a lot of problems arise.
+
+## The Framework Spellbook
+
+And this is where frameworks come in. If raw CSS are all runes and symbols, then a UI framework is the spellbook that combines them into something useable. The basic idea of frameworks is that it does all the nitty gritty messy stuff for you. What used to take you several lines of CSS when writing it raw can be done in a few simple keywords on one line. For instance, with the framework Semantic UI that I’ve been working with recently it is so incredibly easy to make an image that scales in size to your window. When I wrote that in CSS I had to make a class, set the width to 100%, the height to scale automatically but guess what! That solution doesn’t work in IE8 because of a bug in the browser so I had to add another line JUST for IE8. Now that doesn’t seem like much to write out but using Semantic UI I can do that in three words: ```ui fluid image```. Three. Words. And the best part is it works across multiple browsers!
+
+Frameworks aren’t without their caveats however. Like any language even if you know the alphabet you need to know the grammar and learning how your framework classes fit together is often a long and arduous process. The benefits for lasting through the initial investment are unparalleled though. I just picked up Semantic UI about a week ago, as the first framework I’ve ever learned and I’ve already seen some incredible productivity increases. I did a project once that was a simple proof of concept web app. It was a staff tracking website that allowed people to volunteer for a local anime convention that I help run. It had some simple forms, and a navigation bar on the top. There was supposed to be a horizontally centered content area with a banner picture on top. Nothing too fancy. I wrote all the code to connect to the database running the app over the course of one night. To do the html/CSS? That took me a full two weeks of tweaking nightly. Between researching how to implement something like a navigation bar with a dropdown menu and trying to get my container div to grow in proportion to dynamically generated content. 80% of the time I spent on the project was the HTML and CSS.
+I just redid that whole project in just over three hours by using Semantic UI. 
+
+## Framework it Girl!
+
+I get that sometimes learning the whole library of options of a framework is an immensely daunting task that sometimes may be even more difficult than learning a new programming language. The time invested now however will pay in so much dividends later down the road though. Maybe for a super small scale deployment you can use raw HTML or CSS. Once your page starts generating dynamic content, visual features become priority, and consistency in look and operation become your goals, I implore you. Learn a framework. Save yourself the agony of writing it all yourself. We’re programmers and developers! We’re lazy by nature and someone has done you the favor of doing half of your work for you so why not use it? It’s similar in theory to why there are coding standards. When things are made generic and consistent over multiple applications, debugging, updating, and development just become so much easier!	
