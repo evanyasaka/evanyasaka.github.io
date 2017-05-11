@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/manoa-quest-header.PNG
-title: Build Manoa-Quest
+title: Building Manoa-Quest
 permalink: projects/manoa-quest
 date: 2017
 labels:
