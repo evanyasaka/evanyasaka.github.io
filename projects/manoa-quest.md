@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/gundam-logo.png
+image: images/manoa-quest-header.PNG
 title: Build Manoa-Quest
 permalink: projects/manoa-quest
 date: 2017
@@ -34,17 +34,34 @@ We decided that we wanted the app to stylistically be similar to a game, to have
  
  In order to combat this we had to completely remake the repo and move towards that style of project management starting with Milestone 2.
  
+<div>
+ <img class="ui image" src="../images/m1screencap.PNG">
+</div>
+ 
  ## Milestone 2
- For this milestone we set our goals a little bit too high. Initially we had all set out to try full stack development where we each took a page and worked on the whole design of that page from the top down from interface to database. Because of the major functionality goals that we had however, we were wasting so much time going back and forth between trying to make sure we were on the same page with database design and keeping styling the same that we decided it just didn't work for us. Thankfully our team was a fantastic combination of specialties that really aligned well. Christie had done a lot of full stack development with a focus in design and working with GitHub on things like merge conflicts and workflow, Kirk was really good with databases and data design, and I was very comfortable with JavaScript and programming. In the middle of the milestone we completely flipped our project development approach upside down to accomodate each persons skills.
+ For this milestone we set our goals a little bit too high. Initially we had all set out to try full stack development where we each took a page and worked on the whole design of that page from the top down from interface to database. Because of the major functionality goals that we had however, we were wasting so much time going back and forth between trying to make sure we were on the same page with database design and keeping styling the same that we decided it just didn't work for us. Thankfully our team was a fantastic combination of specialties that really aligned well. Christie had done a lot of full stack development with a focus in design and working with GitHub on things like merge conflicts and workflow, Kirk was really good with databases and data design, and I was very comfortable with JavaScript and programming. In the middle of the milestone we completely flipped our project development approach upside down to accommodate each persons skills.
  
  This worked so fantastically that I'm surprised how smoothly it went. Anytime I needed to make a change ro the database I'd let Kirk know and he'd modify the schema and relay field names and changes to it and how I could reference it. Anytime I needed a new page I told Christie the specs I'd want and she'd make it for me. My job was to connect it all together. To work on the dataflow and tying the frontend to the backend was really enjoyable for me. It gave me a very good insight in to the necessary scope into much larger projects and how daunting it could be.
  
+<div>
+ <img class="ui image" src="../images/student-home-page.png">
+</div>
+ 
  The one place where I tripped up was implementing our CAS login system. I just could not figure it out. Luckily however, in his downtime Kirk was looking through an app we were referencing called BowFolios that had a running system for that. He was confident that he understood how it worked so he implemented it and showed me how to work with it.
-  
+ 
+<div>
+  <img class="ui image" src="../images/landing-page.PNG">
+</div>
+ 
   Our milestone two major goals were to implement that CAS login system, and design the database schema and make sure we could reference it from the app and we met that goal with flying colors.
   
  ## Milestone 3
  For our final milestone we had to fill the databse with dummy data so that I could make sure functionality worked. We implemented it by having the app load sample data from a file if the databases were empty. My job for this milestone was to make sure the pages could pull data from the database and that when actions were taken they would take you to the correct page or modify the DB in some way. We also needed to add the leaderboard still as I wasn't able to get to it during the second milestone. Thankfully the most difficult part about this was figuring out how to filter results from database queries to show the proper information. Since we were so far into the project changing the datastructure of the backend would have meant redesigns of a lot of other modules in the project. I was able to finish all of the functionality quite quickly so I was able to move on to one of our stretch goals which was to make some custom avatars for people. Ideally this would have extended into a character creator I did not have the resources or the time to filly flesh the idea out.
+ 
+<div>
+  <img class="ui image" src="../images/leaderboard.png">
+</div>
+ 
  
  Once I finished the functionality, Christie worked on the final styling and deployed our app to Galaxy where all three of us tested it along with a few of Christie's friends.
  
