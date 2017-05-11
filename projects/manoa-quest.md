@@ -24,13 +24,13 @@ summary: In one month myself and a two other people built a webapp that aimed to
 
  We decided that we wanted the app to stylistically be similar to a game, to have students able to complete assignmetns as if they were turning in a quest, and to have a professor or TA able to manage the creation and rewards for quets. Additionally, we wanted to have a leaderboard showing the top performing students.
   
- ## Milestone 1
+## Milestone 1
  
  Our first milestone set out to design mockup pages of the application.
  
  I had a basic template version that I had made stored in a private repository on my github account which I decided would be a good starting point for us to start collaborating on. After making our group's github organization page and setting up our project website I forked my private repo into a repo that we would collaborate on in our organization. Mockups went quite surprisingly quite smoothly. We were all reasonably comfortable with what we were doing and were able to create mock-ups for pages we had decided we would need. As an aside, I cannot stress how effective of a team-bonding experience getting yakiniku together is. Over food we were able to discuss the project very candidly and openly without the constraints of it feeling like "work". We had a working mockup version of the site ready to go quite quickly and were ready to move on to the next milestone when our first major hurdle came along: issue driven project management.
  
- ## The Problems of Forking
+## The Problems of Forking
  
  One of the constraints we had to work within was the project management philosiphy of issue driven project management. This meant that for all the things we needed to add or change on the app we needed to make an issue in github and track whether or not they were in a backlog, in progress, or already completed.
  
@@ -42,7 +42,7 @@ summary: In one month myself and a two other people built a webapp that aimed to
  <img class="ui image" src="../images/m1screencap.PNG">
 </div>
  
- ## Milestone 2
+## Milestone 2
  
  For this milestone we set our goals a little bit too high. Initially we had all set out to try full stack development where we each took a page and worked on the whole design of that page from the top down from interface to database. Because of the major functionality goals that we had however, we were wasting so much time going back and forth between trying to make sure we were on the same page with database design and keeping styling the same that we decided it just didn't work for us. Thankfully our team was a fantastic combination of specialties that really aligned well. Christie had done a lot of full stack development with a focus in design and working with GitHub on things like merge conflicts and workflow, Kirk was really good with databases and data design, and I was very comfortable with JavaScript and programming. In the middle of the milestone we completely flipped our project development approach upside down to accommodate each persons skills.
  
@@ -60,7 +60,8 @@ summary: In one month myself and a two other people built a webapp that aimed to
  
   Our milestone two major goals were to implement that CAS login system, and design the database schema and make sure we could reference it from the app and we met that goal with flying colors.
   
- ## Milestone 3
+## Milestone 3
+ 
  For our final milestone we had to fill the databse with dummy data so that I could make sure functionality worked. We implemented it by having the app load sample data from a file if the databases were empty. My job for this milestone was to make sure the pages could pull data from the database and that when actions were taken they would take you to the correct page or modify the DB in some way. We also needed to add the leaderboard still as I wasn't able to get to it during the second milestone. Thankfully the most difficult part about this was figuring out how to filter results from database queries to show the proper information. Since we were so far into the project changing the datastructure of the backend would have meant redesigns of a lot of other modules in the project. I was able to finish all of the functionality quite quickly so I was able to move on to one of our stretch goals which was to make some custom avatars for people. Ideally this would have extended into a character creator I did not have the resources or the time to filly flesh the idea out.
  
 <div>
